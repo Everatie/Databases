@@ -1,0 +1,425 @@
+{
+  "ANIME": [
+    {
+      "Watching": []
+    },
+    {
+      "Watched": [
+        {
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Yagate Kimi ni Naru",
+            "english": "Bloom Into You"
+          },
+          "total_episodes": 13,
+          "watched_episodes": 13,
+          "duration": 24,
+          "score": "Excellent",
+          "thoughts": "É uma história surpreendentemente tocante (e bem animada), sem contar que possui bastante pontos para análise.",
+          "releaseDate": "2018-10-5",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "NARUTO",
+            "english": "Naruto"
+          },
+          "total_episodes": 220,
+          "watched_episodes": 220,
+          "duration": 23,
+          "score": "Excellent",
+          "thoughts": "Manerinho",
+          "releaseDate": "2002-10-3",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "NARUTO: Shippuuden",
+            "english": "Naruto: Shippuden"
+          },
+          "total_episodes": 500,
+          "watched_episodes": 500,
+          "duration": 23,
+          "score": "Good",
+          "thoughts": "Momentos incríveis; momentos terríveis",
+          "releaseDate": "2007-2-15",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Code Geass",
+            "english": "Code Geass"
+          },
+          "total_episodes": 10,
+          "watched_episodes": 10,
+          "duration": 10,
+          "score": "Good",
+          "thoughts": "Ótimo final.",
+          "releaseDate": "2007-12-21",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Music",
+            "Romance",
+            "Slice of Life"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Shigatsu wa Kimi no Uso",
+            "english": "Your lie in April"
+          },
+          "total_episodes": 22,
+          "watched_episodes": 22,
+          "duration": 23,
+          "score": "Excellent",
+          "thoughts": "Lindo",
+          "releaseDate": "2014-10-10",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Tate no Yuusha no Nariagari",
+            "english": "The Rising of the Shield Hero"
+          },
+          "total_episodes": 25,
+          "watched_episodes": 25,
+          "duration": 24,
+          "score": "Regular",
+          "thoughts": "Foi se perdendo",
+          "releaseDate": "2019-1-9",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+            "english": "My Teen Romantic Comedy SNAFU"
+          },
+          "total_episodes": 13,
+          "watched_episodes": 13,
+          "duration": 24,
+          "score": "Good",
+          "thoughts": "Funcional",
+          "releaseDate": "2013-4-5",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Romance",
+            "Slice of Life"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku",
+            "english": "My Teen Romantic Comedy SNAFU TOO!"
+          },
+          "total_episodes": 13,
+          "watched_episodes": 13,
+          "duration": 24,
+          "score": "Excellent",
+          "thoughts": "Romancizinho bem mais ou menos, porém dramas até que interessantes",
+          "releaseDate": "2015-4-3",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Psychological",
+            "Romance",
+            "Thriller"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "english": "Re:ZERO -Starting Life in Another World-"
+          },
+          "total_episodes": 25,
+          "watched_episodes": 25,
+          "duration": 25,
+          "score": "Excellent",
+          "thoughts": "O protagonista é insuportável e as heroínas com mais destaque também, mas no geral é muito bom",
+          "releaseDate": "2016-4-4",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "No Game No Life",
+            "english": "No Game, No Life"
+          },
+          "total_episodes": 12,
+          "watched_episodes": 12,
+          "duration": 24,
+          "score": "Excellent",
+          "thoughts": "Apesar de tudo, genuinamente me diverti",
+          "releaseDate": "2014-4-9",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "VINLAND SAGA",
+            "english": "Vinland Saga"
+          },
+          "total_episodes": 24,
+          "watched_episodes": 24,
+          "duration": 24,
+          "score": "Good",
+          "thoughts": "Ver tudo animado foi incrível",
+          "releaseDate": "2019-7-8",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Sword Art Online",
+            "english": "Sword Art Online"
+          },
+          "total_episodes": 25,
+          "watched_episodes": 25,
+          "duration": 23,
+          "score": "Regular",
+          "thoughts": "Não chega a ser tenebroso, porém achei bem chato.",
+          "releaseDate": "2012-7-8",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "title": {
+            "romaji": "Nanatsu no Taizai",
+            "english": "The Seven Deadly Sins"
+          },
+          "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Supernatural"
+          ],
+          "countryOfOrigin": "Japan",
+          "duration": 25,
+          "total_episodes": 24,
+          "watched_episodes": 24,
+          "thoughts": "Ecchi puro, história pouca.",
+          "times_rewatched": 1,
+          "score": "Bad",
+          "releaseDate": "2014-10-5",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "title": {
+            "romaji": "Youjo Senki",
+            "english": "Saga of Tanya the Evil"
+          },
+          "genres": [
+            "Action",
+            "Fantasy"
+          ],
+          "countryOfOrigin": "Japan",
+          "duration": 24,
+          "total_episodes": 12,
+          "watched_episodes": 12,
+          "thoughts": "Bem divertido",
+          "times_rewatched": 1,
+          "score": "Good",
+          "releaseDate": "2017-1-6",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "title": {
+            "romaji": "Bungou Stray Dogs",
+            "english": "Bungo Stray Dogs"
+          },
+          "genres": [
+            "Action",
+            "Comedy",
+            "Mystery",
+            "Supernatural"
+          ],
+          "countryOfOrigin": "Japan",
+          "duration": 24,
+          "total_episodes": 12,
+          "watched_episodes": 12,
+          "thoughts": "Lembro que tinha curtido bastante.",
+          "times_rewatched": 1,
+          "score": "Excellent",
+          "releaseDate": "2016-4-7",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "title": {
+            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "english": "Kaguya-sama: Love is War"
+          },
+          "genres": [
+            "Comedy",
+            "Psychological",
+            "Romance",
+            "Slice of Life"
+          ],
+          "countryOfOrigin": "Japan",
+          "duration": 24,
+          "total_episodes": 12,
+          "watched_episodes": 12,
+          "thoughts": "Romance japonês que zoa a prória indústria, curto.",
+          "times_rewatched": 1,
+          "score": "Good",
+          "releaseDate": "2019-1-12",
+          "entryDate": "2024-01-22 11:29:08"
+        }
+      ]
+    },
+    {
+      "Paused": [
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+            "english": "Fullmetal Alchemist: Brotherhood"
+          },
+          "total_episodes": 64,
+          "watched_episodes": 54,
+          "duration": 25,
+          "score": "Excellent",
+          "thoughts": "Absolutamente incrível",
+          "releaseDate": "2009-4-5",
+          "entryDate": "2024-01-22 11:29:08"
+        }
+      ]
+    },
+    {
+      "Dropped": [
+        {
+          "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Sword Art Online II",
+            "english": "Sword Art Online II"
+          },
+          "total_episodes": 24,
+          "watched_episodes": 12,
+          "duration": 24,
+          "score": "Bad",
+          "thoughts": "Ruim.",
+          "releaseDate": "2014-7-5",
+          "entryDate": "2024-01-22 11:29:08"
+        },
+        {
+          "title": {
+            "romaji": "Tonikaku Kawaii",
+            "english": "TONIKAWA: Over The Moon For You"
+          },
+          "genres": [
+            "Comedy",
+            "Romance",
+            "Slice of Life"
+          ],
+          "countryOfOrigin": "Japan",
+          "duration": 24,
+          "total_episodes": 12,
+          "watched_episodes": 2,
+          "thoughts": "Tenebroso.",
+          "score": "Horrible",
+          "releaseDate": "2020-10-3",
+          "entryDate": "2024-01-22 11:29:08"
+        }
+      ]
+    },
+    {
+      "PlanToWatch": [
+        {
+          "genres": [
+            "Drama",
+            "Psychological",
+            "Sci-Fi",
+            "Thriller"
+          ],
+          "countryOfOrigin": "Japan",
+          "title": {
+            "romaji": "Steins;Gate",
+            "english": "Steins;Gate"
+          },
+          "total_episodes": 24,
+          "watched_episodes": 0,
+          "duration": 24,
+          "score": null,
+          "thoughts": "Certeza que vai ser um dos meus favoritos",
+          "releaseDate": "2011-4-6",
+          "entryDate": "2024-01-22 11:29:08"
+        }
+      ]
+    }
+  ]
+}

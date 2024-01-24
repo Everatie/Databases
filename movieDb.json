@@ -1,0 +1,350 @@
+{
+  "MOVIE": [
+    {
+      "Watched": [
+        {
+          "genres": [
+            "Action",
+            "Science Fiction",
+            "Adventure"
+          ],
+          "countryOfOrigin": [
+            "United Kingdom",
+            "United States of America"
+          ],
+          "title": {
+            "english": "Inception",
+            "portuguese": "Inception"
+          },
+          "duration": 148,
+          "score": "Excellent",
+          "thoughts": "Toda a temática envolvendo sonhos foi muito bem executada e o final em especial é genial!",
+          "releaseDate": "2010-7-15",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Comedy",
+            "Thriller"
+          ],
+          "countryOfOrigin": [
+            "United Kingdom",
+            "United States of America"
+          ],
+          "title": {
+            "english": "Saltburn",
+            "portuguese": "Saltburn"
+          },
+          "duration": 131,
+          "score": "Excellent",
+          "thoughts": "Gargalhei, pensei e senti desconforto, ótimo filme.",
+          "releaseDate": "2023-11-16",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Family",
+            "Comedy"
+          ],
+          "countryOfOrigin": [
+            "United Kingdom"
+          ],
+          "title": {
+            "english": "Christmas on Mistletoe Farm",
+            "portuguese": "Nosso Natal"
+          },
+          "duration": 104,
+          "score": "Horrible",
+          "thoughts": "Acho que estou meio fora da faixa etária do filme",
+          "releaseDate": "2022-11-23",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Comedy"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "About My Father",
+            "portuguese": ""
+          },
+          "duration": 90,
+          "score": "Good",
+          "thoughts": "Divertidinho",
+          "releaseDate": "2023-5-25",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama",
+            "History"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "King Richard",
+            "portuguese": "King Richard"
+          },
+          "duration": 145,
+          "score": "Good",
+          "thoughts": "A maior virtude do filme é escolher representar o pai da jogadora, em vez da própria jogadora. Decisão essa que gera uma tonaldiade e dimensão completamente diferente à obra, permitindo discussões como racismo e o papel da família.",
+          "releaseDate": "2021-11-18",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Mystery",
+            "History",
+            "Thriller",
+            "Comedy",
+            "Crime"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "Amsterdam",
+            "portuguese": "Amsterdam"
+          },
+          "duration": 134,
+          "score": "Good",
+          "thoughts": "Em nada inova ou se destaca, porém é um filme divertido. A trama acerca do \"comitê dos cinco\" é bem maneirinha também",
+          "releaseDate": "2022-9-27",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama",
+            "War"
+          ],
+          "countryOfOrigin": [
+            "Germany",
+            "United States of America"
+          ],
+          "title": {
+            "english": "Im Westen nichts Neues",
+            "portuguese": "Nada de novo no front"
+          },
+          "duration": 147,
+          "score": "Excellent",
+          "thoughts": "Se um filme anti-guerra realmente for possível, isso sem dúvidas é um exemplo.",
+          "releaseDate": "2022-10-7",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Crime",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "Capote",
+            "portuguese": "Capote"
+          },
+          "duration": 114,
+          "score": "Regular",
+          "thoughts": "Consigo entender o porquê alguém gostaria do filme, porém não me impressionou muito",
+          "releaseDate": "2005-9-30",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Music"
+          ],
+          "countryOfOrigin": [
+            "Hong Kong",
+            "United States of America"
+          ],
+          "title": {
+            "english": "La La Land",
+            "portuguese": "La La Land"
+          },
+          "duration": 129,
+          "score": "Excellent",
+          "thoughts": "Encantador",
+          "releaseDate": "2016-11-29",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Thriller",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "The Report",
+            "portuguese": ""
+          },
+          "duration": 118,
+          "score": "Excellent",
+          "thoughts": "A paranoia estadunidense em relação a seu governo é justificável",
+          "releaseDate": "2019-9-12",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Adventure",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "Captain Fantastic",
+            "portuguese": "Capitão Fantástico"
+          },
+          "duration": 118,
+          "score": "Favorite",
+          "thoughts": "Fenomenal em todos os aspectos.",
+          "releaseDate": "2016-7-8",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "My Dinner with Andre",
+            "portuguese": "Meu Jantar com André"
+          },
+          "duration": 110,
+          "score": "Favorite",
+          "thoughts": "GENIAL",
+          "releaseDate": "1981-10-11",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Romance",
+            "Science Fiction",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "Her",
+            "portuguese": "Ela"
+          },
+          "duration": 126,
+          "score": "Excellent",
+          "thoughts": "Surpreendentemente conseguiram inovar",
+          "releaseDate": "2013-12-18",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "The Whale",
+            "portuguese": "A Baleia"
+          },
+          "duration": 117,
+          "score": "Excellent",
+          "thoughts": "Tocante",
+          "releaseDate": "2022-12-9",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "Sweden",
+            "United States of America"
+          ],
+          "title": {
+            "english": "A Man Called Otto",
+            "portuguese": "O pior vizinho do mundo"
+          },
+          "duration": 126,
+          "score": "Excellent",
+          "thoughts": "Não dava nada pelo filme, não podia estar mais enganado",
+          "releaseDate": "2022-12-28",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama",
+            "History",
+            "Crime",
+            "Thriller"
+          ],
+          "countryOfOrigin": [
+            "Germany",
+            "United States of America"
+          ],
+          "title": {
+            "english": "Snowden",
+            "portuguese": "Snowden"
+          },
+          "duration": 134,
+          "score": "Good",
+          "thoughts": "Se a NSA estiver lendo isso, saiba que eu nunca falei mal do projeto. Vida longa ao USA!",
+          "releaseDate": "2016-9-15",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Science Fiction",
+            "Mystery"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "title": {
+            "english": "Arrival",
+            "portuguese": "A chegada"
+          },
+          "duration": 116,
+          "score": "Excellent",
+          "thoughts": "Único",
+          "releaseDate": "2016-11-10",
+          "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Romance"
+          ],
+          "countryOfOrigin": [
+            "Germany"
+          ],
+          "title": {
+            "english": "Roter Himmel",
+            "portuguese": "Afire"
+          },
+          "duration": 103,
+          "thoughts": "Apesar da evolução do protagonista e cinematografia, devo admitir, achei chatíssimo.",
+          "times_rewatched": 1,
+          "score": "Regular",
+          "releaseDate": "2023-4-20",
+          "entryDate": "2024-01-22 11:28:41"
+        }
+      ]
+    },
+    {
+      "Plan to watch": []
+    }
+  ]
+}
