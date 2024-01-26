@@ -359,6 +359,26 @@
           "times_rewatched": 1,
           "score": "Favorite",
           "entryDate": "2024-01-26 16:39:22"
+        },
+        {
+          "genres": [
+            "Drama",
+            "History"
+          ],
+          "countryOfOrigin": [
+            "Spain",
+            "United States of America"
+          ],
+          "ReleaseDate": "2023-12-13",
+          "title": {
+            "originalTitle": "La sociedad de la nieve",
+            "portuguese": "A sociedade da neve"
+          },
+          "duration": 144,
+          "thoughts": "Ótima ambientação",
+          "times_rewatched": 1,
+          "score": "Excellent",
+          "entryDate": "2024-01-26 16:50:41"
         }
       ]
     },
