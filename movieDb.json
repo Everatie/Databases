@@ -13,7 +13,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Inception",
+            "originalTitle": "Inception",
             "portuguese": "Inception"
           },
           "duration": 148,
@@ -33,7 +33,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Saltburn",
+            "originalTitle": "Saltburn",
             "portuguese": "Saltburn"
           },
           "duration": 131,
@@ -51,7 +51,7 @@
             "United Kingdom"
           ],
           "title": {
-            "english": "Christmas on Mistletoe Farm",
+            "originalTitle": "Christmas on Mistletoe Farm",
             "portuguese": "Nosso Natal"
           },
           "duration": 104,
@@ -68,7 +68,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "About My Father",
+            "originalTitle": "About My Father",
             "portuguese": ""
           },
           "duration": 90,
@@ -86,7 +86,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "King Richard",
+            "originalTitle": "King Richard",
             "portuguese": "King Richard"
           },
           "duration": 145,
@@ -107,7 +107,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Amsterdam",
+            "originalTitle": "Amsterdam",
             "portuguese": "Amsterdam"
           },
           "duration": 134,
@@ -126,7 +126,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Im Westen nichts Neues",
+            "originalTitle": "Im Westen nichts Neues",
             "portuguese": "Nada de novo no front"
           },
           "duration": 147,
@@ -144,7 +144,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Capote",
+            "originalTitle": "Capote",
             "portuguese": "Capote"
           },
           "duration": 114,
@@ -165,7 +165,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "La La Land",
+            "originalTitle": "La La Land",
             "portuguese": "La La Land"
           },
           "duration": 129,
@@ -183,7 +183,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "The Report",
+            "originalTitle": "The Report",
             "portuguese": ""
           },
           "duration": 118,
@@ -201,7 +201,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Captain Fantastic",
+            "originalTitle": "Captain Fantastic",
             "portuguese": "Capitão Fantástico"
           },
           "duration": 118,
@@ -218,7 +218,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "My Dinner with Andre",
+            "originalTitle": "My Dinner with Andre",
             "portuguese": "Meu Jantar com André"
           },
           "duration": 110,
@@ -237,7 +237,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Her",
+            "originalTitle": "Her",
             "portuguese": "Ela"
           },
           "duration": 126,
@@ -254,7 +254,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "The Whale",
+            "originalTitle": "The Whale",
             "portuguese": "A Baleia"
           },
           "duration": 117,
@@ -273,7 +273,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "A Man Called Otto",
+            "originalTitle": "A Man Called Otto",
             "portuguese": "O pior vizinho do mundo"
           },
           "duration": 126,
@@ -294,7 +294,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Snowden",
+            "originalTitle": "Snowden",
             "portuguese": "Snowden"
           },
           "duration": 134,
@@ -313,7 +313,7 @@
             "United States of America"
           ],
           "title": {
-            "english": "Arrival",
+            "originalTitle": "Arrival",
             "portuguese": "A chegada"
           },
           "duration": 116,
@@ -331,7 +331,7 @@
             "Germany"
           ],
           "title": {
-            "english": "Roter Himmel",
+            "originalTitle": "Roter Himmel",
             "portuguese": "Afire"
           },
           "duration": 103,

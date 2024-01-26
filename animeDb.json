@@ -13,7 +13,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Yagate Kimi ni Naru",
+            "originalTitle": "Yagate Kimi ni Naru",
             "english": "Bloom Into You"
           },
           "total_episodes": 13,
@@ -35,7 +35,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "NARUTO",
+            "originalTitle": "NARUTO",
             "english": "Naruto"
           },
           "total_episodes": 220,
@@ -57,7 +57,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "NARUTO: Shippuuden",
+            "originalTitle": "NARUTO: Shippuuden",
             "english": "Naruto: Shippuden"
           },
           "total_episodes": 500,
@@ -74,7 +74,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Code Geass",
+            "originalTitle": "Code Geass",
             "english": "Code Geass"
           },
           "total_episodes": 10,
@@ -94,7 +94,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Shigatsu wa Kimi no Uso",
+            "originalTitle": "Shigatsu wa Kimi no Uso",
             "english": "Your lie in April"
           },
           "total_episodes": 22,
@@ -113,7 +113,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Tate no Yuusha no Nariagari",
+            "originalTitle": "Tate no Yuusha no Nariagari",
             "english": "The Rising of the Shield Hero"
           },
           "total_episodes": 25,
@@ -132,7 +132,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
+            "originalTitle": "Yahari Ore no Seishun Love Come wa Machigatteiru.",
             "english": "My Teen Romantic Comedy SNAFU"
           },
           "total_episodes": 13,
@@ -151,7 +151,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku",
+            "originalTitle": "Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku",
             "english": "My Teen Romantic Comedy SNAFU TOO!"
           },
           "total_episodes": 13,
@@ -174,7 +174,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "originalTitle": "Re:Zero kara Hajimeru Isekai Seikatsu",
             "english": "Re:ZERO -Starting Life in Another World-"
           },
           "total_episodes": 25,
@@ -194,7 +194,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "No Game No Life",
+            "originalTitle": "No Game No Life",
             "english": "No Game, No Life"
           },
           "total_episodes": 12,
@@ -213,7 +213,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "VINLAND SAGA",
+            "originalTitle": "VINLAND SAGA",
             "english": "Vinland Saga"
           },
           "total_episodes": 24,
@@ -233,7 +233,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Sword Art Online",
+            "originalTitle": "Sword Art Online",
             "english": "Sword Art Online"
           },
           "total_episodes": 25,
@@ -246,7 +246,7 @@
         },
         {
           "title": {
-            "romaji": "Nanatsu no Taizai",
+            "originalTitle": "Nanatsu no Taizai",
             "english": "The Seven Deadly Sins"
           },
           "genres": [
@@ -269,7 +269,7 @@
         },
         {
           "title": {
-            "romaji": "Youjo Senki",
+            "originalTitle": "Youjo Senki",
             "english": "Saga of Tanya the Evil"
           },
           "genres": [
@@ -288,7 +288,7 @@
         },
         {
           "title": {
-            "romaji": "Bungou Stray Dogs",
+            "originalTitle": "Bungou Stray Dogs",
             "english": "Bungo Stray Dogs"
           },
           "genres": [
@@ -309,7 +309,7 @@
         },
         {
           "title": {
-            "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+            "originalTitle": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
             "english": "Kaguya-sama: Love is War"
           },
           "genres": [
@@ -341,7 +341,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+            "originalTitle": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
             "english": "Fullmetal Alchemist: Brotherhood"
           },
           "total_episodes": 64,
@@ -365,7 +365,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Sword Art Online II",
+            "originalTitle": "Sword Art Online II",
             "english": "Sword Art Online II"
           },
           "total_episodes": 24,
@@ -378,7 +378,7 @@
         },
         {
           "title": {
-            "romaji": "Tonikaku Kawaii",
+            "originalTitle": "Tonikaku Kawaii",
             "english": "TONIKAWA: Over The Moon For You"
           },
           "genres": [
@@ -408,7 +408,7 @@
           ],
           "countryOfOrigin": "Japan",
           "title": {
-            "romaji": "Steins;Gate",
+            "originalTitle": "Steins;Gate",
             "english": "Steins;Gate"
           },
           "total_episodes": 24,
