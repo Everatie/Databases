@@ -398,6 +398,27 @@
           "times_rewatched": 1,
           "score": "Excellent",
           "entryDate": "2024-01-26 16:51:23"
+        },
+        {
+          "genres": [
+            "History",
+            "War",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United Kingdom",
+            "United States of America"
+          ],
+          "ReleaseDate": "2023-11-22",
+          "title": {
+            "originalTitle": "Napoleon",
+            "portuguese": "Napoleão"
+          },
+          "duration": 158,
+          "thoughts": "O único aspecto louvável é a fotografia",
+          "times_rewatched": 1,
+          "score": "Bad",
+          "entryDate": "2024-01-26 16:52:36"
         }
       ]
     },
