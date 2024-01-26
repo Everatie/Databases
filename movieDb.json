@@ -419,6 +419,26 @@
           "times_rewatched": 1,
           "score": "Bad",
           "entryDate": "2024-01-26 16:52:36"
+        },
+        {
+          "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "2007-07-25",
+          "title": {
+            "originalTitle": "The Simpsons Movie",
+            "portuguese": ""
+          },
+          "duration": 87,
+          "thoughts": "Dá para divertir",
+          "times_rewatched": 1,
+          "score": "Regular",
+          "entryDate": "2024-01-26 16:56:21"
         }
       ]
     },
