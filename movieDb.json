@@ -340,6 +340,25 @@
           "score": "Regular",
           "releaseDate": "2023-4-20",
           "entryDate": "2024-01-22 11:28:41"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Thriller"
+          ],
+          "countryOfOrigin": [
+            "Japan"
+          ],
+          "ReleaseDate": "2023-06-02",
+          "title": {
+            "originalTitle": "怪物",
+            "portuguese": "Monster"
+          },
+          "duration": 125,
+          "thoughts": "Indescritível, fotografia linda e roteiro impecável",
+          "times_rewatched": 1,
+          "score": "Favorite",
+          "entryDate": "2024-01-26 16:39:22"
         }
       ]
     },
