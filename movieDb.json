@@ -379,6 +379,25 @@
           "times_rewatched": 1,
           "score": "Excellent",
           "entryDate": "2024-01-26 16:50:41"
+        },
+        {
+          "genres": [
+            "Comedy",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "2023-10-27",
+          "title": {
+            "originalTitle": "The Holdovers",
+            "portuguese": "Os rejeitados"
+          },
+          "duration": 133,
+          "thoughts": "Divertido",
+          "times_rewatched": 1,
+          "score": "Excellent",
+          "entryDate": "2024-01-26 16:51:23"
         }
       ]
     },
