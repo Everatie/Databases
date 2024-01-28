@@ -457,6 +457,26 @@
           "times_rewatched": 1,
           "score": "Excellent",
           "entryDate": "2024-01-28 15:18:22"
+        },
+        {
+          "genres": [
+            "Romance",
+            "Comedy",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "Italy"
+          ],
+          "ReleaseDate": "2023-03-16",
+          "title": {
+            "originalTitle": "Era ora",
+            "portuguese": "Já era hora"
+          },
+          "duration": 108,
+          "thoughts": "Meio chato",
+          "times_rewatched": 1,
+          "score": "Bad",
+          "entryDate": "2024-01-28 15:20:30"
         }
       ]
     },
