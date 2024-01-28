@@ -439,6 +439,24 @@
           "times_rewatched": 1,
           "score": "Regular",
           "entryDate": "2024-01-26 16:56:21"
+        },
+        {
+          "genres": [
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "1997-12-05",
+          "title": {
+            "originalTitle": "Good Will Hunting",
+            "portuguese": "Gênio indomável"
+          },
+          "duration": 127,
+          "thoughts": "",
+          "times_rewatched": 1,
+          "score": "Excellent",
+          "entryDate": "2024-01-28 15:18:22"
         }
       ]
     },
