@@ -520,6 +520,26 @@
           "times_rewatched": 1,
           "score": "Bad",
           "entryDate": "2024-01-28 15:22:39"
+        },
+        {
+          "genres": [
+            "Drama",
+            "History"
+          ],
+          "countryOfOrigin": [
+            "United Kingdom",
+            "United States of America"
+          ],
+          "ReleaseDate": "2023-07-19",
+          "title": {
+            "originalTitle": "Oppenheimer",
+            "portuguese": "1"
+          },
+          "duration": 181,
+          "thoughts": "Simplesmente o kabuum",
+          "times_rewatched": 1,
+          "score": "Excellent",
+          "entryDate": "2024-01-28 15:23:47"
         }
       ]
     },
