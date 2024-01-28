@@ -497,6 +497,29 @@
           "times_rewatched": 1,
           "score": "Bad",
           "entryDate": "2024-01-28 15:21:45"
+        },
+        {
+          "genres": [
+            "Drama",
+            "History",
+            "Romance",
+            "Thriller"
+          ],
+          "countryOfOrigin": [
+            "France",
+            "Russia",
+            "Switzerland"
+          ],
+          "ReleaseDate": "2022-11-11",
+          "title": {
+            "originalTitle": "Жена Чайковского",
+            "portuguese": "A esposa de Tchaikovsky"
+          },
+          "duration": 144,
+          "thoughts": "No fim eu já nada entendia.",
+          "times_rewatched": 1,
+          "score": "Bad",
+          "entryDate": "2024-01-28 15:22:39"
         }
       ]
     },
