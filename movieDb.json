@@ -540,6 +540,25 @@
           "times_rewatched": 1,
           "score": "Excellent",
           "entryDate": "2024-01-28 15:23:47"
+        },
+        {
+          "genres": [
+            "Drama",
+            "History"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "2018-11-16",
+          "title": {
+            "originalTitle": "Green Book",
+            "portuguese": "Green Book"
+          },
+          "duration": 130,
+          "thoughts": "",
+          "times_rewatched": 1,
+          "score": "Nice",
+          "entryDate": "2024-01-28 15:24:40"
         }
       ]
     },
