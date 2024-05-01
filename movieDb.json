@@ -674,6 +674,29 @@
           "times_rewatched": 1,
           "score": "Bad",
           "entryDate": "2024-05-01 16:56:52"
+        },
+        {
+          "genres": [
+            "Romance",
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "Belgium",
+            "France",
+            "Italy",
+            "Switzerland",
+            "United States of America"
+          ],
+          "ReleaseDate": "2014-04-22",
+          "title": {
+            "originalTitle": "Grace of Monaco",
+            "portuguese": "Grace de Monaco"
+          },
+          "duration": 103,
+          "thoughts": "Bem paradão.",
+          "times_rewatched": 1,
+          "score": "Bad",
+          "entryDate": "2024-05-01 16:58:18"
         }
       ]
     },
