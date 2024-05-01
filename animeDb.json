@@ -157,7 +157,7 @@
           "total_episodes": 13,
           "watched_episodes": 13,
           "duration": 24,
-          "score": "Excellent",
+          "score": "Good",
           "thoughts": "Romancizinho bem mais ou menos, porém dramas até que interessantes",
           "releaseDate": "2015-4-3",
           "entryDate": "2024-01-22 11:29:08"
@@ -180,7 +180,7 @@
           "total_episodes": 25,
           "watched_episodes": 25,
           "duration": 25,
-          "score": "Excellent",
+          "score": "Good",
           "thoughts": "O protagonista é insuportável e as heroínas com mais destaque também, mas no geral é muito bom",
           "releaseDate": "2016-4-4",
           "entryDate": "2024-01-22 11:29:08"
@@ -200,7 +200,7 @@
           "total_episodes": 12,
           "watched_episodes": 12,
           "duration": 24,
-          "score": "Excellent",
+          "score": "Good",
           "thoughts": "Apesar de tudo, genuinamente me diverti",
           "releaseDate": "2014-4-9",
           "entryDate": "2024-01-22 11:29:08"
@@ -303,7 +303,7 @@
           "watched_episodes": 12,
           "thoughts": "Lembro que tinha curtido bastante.",
           "times_rewatched": 1,
-          "score": "Excellent",
+          "score": "Good",
           "releaseDate": "2016-4-7",
           "entryDate": "2024-01-22 11:29:08"
         },
@@ -394,12 +394,8 @@
           "score": "Horrible",
           "releaseDate": "2020-10-3",
           "entryDate": "2024-01-22 11:29:08"
-        }
-      ]
-    },
-    {
-      "PlanToWatch": [
-        {
+        },
+		{
           "genres": [
             "Drama",
             "Psychological",
@@ -414,11 +410,15 @@
           "total_episodes": 24,
           "watched_episodes": 0,
           "duration": 24,
-          "score": null,
-          "thoughts": "Certeza que vai ser um dos meus favoritos",
+          "score": Good,
+          "thoughts": "É um bom anime, mas nem de longe tão impactante como esperava",
           "releaseDate": "2011-4-6",
           "entryDate": "2024-01-22 11:29:08"
         }
+      ]
+    },
+    {
+      "PlanToWatch": [
       ]
     }
   ]
