@@ -649,13 +649,31 @@
           "ReleaseDate": "1994-09-10",
           "title": {
             "originalTitle": "Pulp Fiction",
-            "portuguese": ""
+            "portuguese": "Irreverente"
           },
           "duration": 154,
           "thoughts": "",
           "times_rewatched": 1,
           "score": "Nice",
           "entryDate": "2024-05-01 16:53:16"
+        },
+        {
+          "genres": [
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "Spain"
+          ],
+          "ReleaseDate": "2023-04-21",
+          "title": {
+            "originalTitle": "20.000 especies de abejas",
+            "portuguese": "20000 espécies de abelhas"
+          },
+          "duration": 129,
+          "thoughts": "A temática do filme é bem interessante, a direção boa e a atuação também. Porém, é ridiculamente monótono.",
+          "times_rewatched": 1,
+          "score": "Bad",
+          "entryDate": "2024-05-01 16:56:52"
         }
       ]
     },
