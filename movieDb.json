@@ -697,6 +697,26 @@
           "times_rewatched": 1,
           "score": "Bad",
           "entryDate": "2024-05-01 16:58:18"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Thriller"
+          ],
+          "countryOfOrigin": [
+            "United Kingdom",
+            "United States of America"
+          ],
+          "ReleaseDate": "2021-02-12",
+          "title": {
+            "originalTitle": "The Mauritanian",
+            "portuguese": "O mauritano"
+          },
+          "duration": 129,
+          "thoughts": "Acho que deveria existir uma categoria de filmes sobre crimes de guerra do USA produzidos pelo Vice",
+          "times_rewatched": 1,
+          "score": "Nice",
+          "entryDate": "2024-05-01 17:14:10"
         }
       ]
     },
