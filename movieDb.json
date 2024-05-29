@@ -736,6 +736,25 @@
           "times_rewatched": 1,
           "score": "Regular",
           "entryDate": "2024-05-29 16:51:27"
+        },
+        {
+          "genres": [
+            "Thriller",
+            "Crime"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "1994-09-10",
+          "title": {
+            "originalTitle": "Pulp Fiction",
+            "portuguese": "Pulp Fiction"
+          },
+          "duration": 154,
+          "thoughts": "",
+          "times_rewatched": 1,
+          "score": "Nice",
+          "entryDate": "2024-05-29 16:52:21"
         }
       ]
     },
