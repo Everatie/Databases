@@ -717,6 +717,25 @@
           "times_rewatched": 1,
           "score": "Nice",
           "entryDate": "2024-05-01 17:14:10"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Comedy"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "2023-11-16",
+          "title": {
+            "originalTitle": "May December",
+            "portuguese": ""
+          },
+          "duration": 117,
+          "thoughts": "",
+          "times_rewatched": 1,
+          "score": "Regular",
+          "entryDate": "2024-05-29 16:51:27"
         }
       ]
     },
