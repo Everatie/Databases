@@ -817,7 +817,27 @@
       ]
     },
     {
-      "Plan to watch": []
+      "PlanToWatch": [
+        {
+          "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "2015-02-11",
+          "title": {
+            "originalTitle": "Fifty Shades of Grey",
+            "portuguese": "1"
+          },
+          "duration": 125,
+          "thoughts": "",
+          "score": null,
+          "entryDate": "2024-05-30 13:00:01"
+        }
+      ]
     }
   ]
 }
