@@ -395,7 +395,7 @@
           "releaseDate": "2020-10-3",
           "entryDate": "2024-01-22 11:29:08"
         },
-        {
+		{
           "genres": [
             "Drama",
             "Psychological",
@@ -414,33 +414,12 @@
           "thoughts": "É um bom anime, mas nem de longe tão impactante como esperava",
           "releaseDate": "2011-4-6",
           "entryDate": "2024-01-22 11:29:08"
-        },
-        {
-          "title": {
-            "english": "Naruto",
-            "originalTitle": "NARUTO"
-          },
-          "genres": [
-            "Action",
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Fantasy",
-            "Supernatural"
-          ],
-          "countryOfOrigin": "Japan",
-          "duration": 23,
-          "total_episodes": 220,
-          "watched_episodes": 1,
-          "releaseDate": "2002-10-3",
-          "thoughts": "",
-          "score": "Nice",
-          "entryDate": "2024-05-30 14:29:07"
         }
       ]
     },
     {
-      "PlanToWatch": []
+      "PlanToWatch": [
+      ]
     }
   ]
 }
