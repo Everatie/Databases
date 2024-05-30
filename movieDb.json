@@ -855,6 +855,27 @@
           "thoughts": "",
           "score": null,
           "entryDate": "2024-05-30 13:01:49"
+        },
+        {
+          "genres": [
+            "Science Fiction",
+            "Romance",
+            "Comedy"
+          ],
+          "countryOfOrigin": [
+            "Ireland",
+            "United Kingdom",
+            "United States of America"
+          ],
+          "ReleaseDate": "2023-12-07",
+          "title": {
+            "originalTitle": "Poor Things",
+            "portuguese": "Pobres criaturas"
+          },
+          "duration": 142,
+          "thoughts": "",
+          "score": null,
+          "entryDate": "2024-05-30 14:13:19"
         }
       ]
     }
