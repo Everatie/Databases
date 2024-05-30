@@ -836,6 +836,25 @@
           "thoughts": "",
           "score": null,
           "entryDate": "2024-05-30 13:00:01"
+        },
+        {
+          "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+          ],
+          "countryOfOrigin": [
+            "Russia"
+          ],
+          "ReleaseDate": "2007-06-06",
+          "title": {
+            "originalTitle": "12",
+            "portuguese": "1"
+          },
+          "duration": 159,
+          "thoughts": "",
+          "score": null,
+          "entryDate": "2024-05-30 13:01:49"
         }
       ]
     }
