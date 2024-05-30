@@ -775,6 +775,24 @@
           "times_rewatched": 1,
           "score": "Nice",
           "entryDate": "2024-05-30 12:29:42"
+        },
+        {
+          "genres": [
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "Spain"
+          ],
+          "ReleaseDate": "2023-04-21",
+          "title": {
+            "originalTitle": "20.000 especies de abejas",
+            "portuguese": "1"
+          },
+          "duration": 129,
+          "thoughts": "",
+          "times_rewatched": 1,
+          "score": "Bad",
+          "entryDate": "2024-05-30 12:57:05"
         }
       ]
     },
