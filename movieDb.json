@@ -755,6 +755,26 @@
           "times_rewatched": 1,
           "score": "Nice",
           "entryDate": "2024-05-29 16:52:21"
+        },
+        {
+          "genres": [
+            "Drama"
+          ],
+          "countryOfOrigin": [
+            "Belgium",
+            "France",
+            "Netherlands"
+          ],
+          "ReleaseDate": "2022-11-01",
+          "title": {
+            "originalTitle": "Close",
+            "portuguese": "Close"
+          },
+          "duration": 104,
+          "thoughts": "Perfeitamente doloroso",
+          "times_rewatched": 1,
+          "score": "Nice",
+          "entryDate": "2024-05-30 12:29:42"
         }
       ]
     },
