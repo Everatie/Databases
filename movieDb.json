@@ -793,6 +793,26 @@
           "times_rewatched": 1,
           "score": "Bad",
           "entryDate": "2024-05-30 12:57:05"
+        },
+        {
+          "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+          ],
+          "countryOfOrigin": [
+            "United States of America"
+          ],
+          "ReleaseDate": "2015-02-11",
+          "title": {
+            "originalTitle": "Fifty Shades of Grey",
+            "portuguese": "1"
+          },
+          "duration": 125,
+          "thoughts": "",
+          "times_rewatched": 1,
+          "score": "Favorite",
+          "entryDate": "2024-05-30 12:58:50"
         }
       ]
     },
